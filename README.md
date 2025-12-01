@@ -13,7 +13,23 @@ Amacı: film arama + listeleme + detay görüntüleme gibi temel sinema sitesi i
 ## 🛠️ Kullanılan Teknolojiler (Tech Stack)
 - HTML / CSS / JavaScript  
 - (Backend / Frontend ) 
-- (Css framework)  
-  
+- (Css framework)
 
+
+
+  
+## 🎯 Amaç ve Öğrenilenler
+
+- Bu projede:
+
+- API üzerinden veri çekme
+
+- Kullanıcı arayüzü geliştirme
+
+- Responsive tasarım
+
+- Temiz kod yazma
+
+- Temel proje yapısı oluşturma
+  konularında pratik yaptım.
 
