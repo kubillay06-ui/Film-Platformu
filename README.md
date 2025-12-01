@@ -32,4 +32,6 @@ Amacı: film arama + listeleme + detay görüntüleme gibi temel sinema sitesi i
 
 - Temel proje yapısı oluşturma
   konularında pratik yaptım.
+  
 
+## <img width="1898" height="907" alt="b4227eb6-4086-44ce-a875-95b23d7c03d9" src="https://github.com/user-attachments/assets/f8c28fcd-71e1-40c4-a5e2-df6dc19b8e0d" />
