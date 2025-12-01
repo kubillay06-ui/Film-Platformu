@@ -35,3 +35,5 @@ Amacı: film arama + listeleme + detay görüntüleme gibi temel sinema sitesi i
   
 
 ## <img width="1898" height="907" alt="b4227eb6-4086-44ce-a875-95b23d7c03d9" src="https://github.com/user-attachments/assets/f8c28fcd-71e1-40c4-a5e2-df6dc19b8e0d" />
+##<img width="1892" height="932" alt="Ekran görüntüsü 2025-12-01 143042" src="https://github.com/user-attachments/assets/2f3f9002-5b0a-4c6e-ae45-dc919a4e365b" />
+
