@@ -36,7 +36,7 @@ Amacı: film arama + listeleme + detay görüntüleme gibi temel sinema sitesi i
     ## GÖRÜNÜM
 
 ##<img width="1900" height="762" alt="image" src="https://github.com/user-attachments/assets/f14e208e-11b0-4112-858a-66342791e186" />
-<img width="1895" height="811" alt="image" src="https://github.com/user-attachments/assets/5805b887-e68e-47a1-a091-c85195b83836" />
+##<img width="1895" height="811" alt="image" src="https://github.com/user-attachments/assets/5805b887-e68e-47a1-a091-c85195b83836" />
 
 
 
